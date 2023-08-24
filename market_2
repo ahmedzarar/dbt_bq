@@ -1,0 +1,1 @@
+SELECT distinct Year,Month,Door FROM `analog-hull-392106.dbt_coty_BQ.market_share`
